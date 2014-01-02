@@ -1,0 +1,46 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\bin\Debug\Apagar Equipo.exe.config
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\bin\Debug\Apagar Equipo.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\bin\Debug\Apagar Equipo.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\bin\Debug\Apagar Equipo.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\obj\Debug\Apagar_Equipo.Form1.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\obj\Debug\Apagar_Equipo.Resources.resources
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\obj\Debug\Apagar Equipo.vbproj.GenerateResource.Cache
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\obj\Debug\Apagar Equipo.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\obj\Debug\Apagar Equipo.xml
+C:\Users\Alex\AppData\Local\Temporary Projects\Apagar Equipo\obj\Debug\Apagar Equipo.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.xml
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar_Equipo.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar_Equipo.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.vbproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar_Equipo.OpcionColor.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar_Equipo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar_Equipo.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar_Equipo.OpcionColor.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\bin\Debug\Apagar Equipo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\obj\Debug\Apagar Equipo.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\obj\Debug\Apagar Equipo.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\obj\Debug\Apagar Equipo.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\obj\Debug\Apagar_Equipo.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\obj\Debug\Apagar_Equipo.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\obj\Debug\Apagar Equipo.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\bin\Debug\Apagar Equipo.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\bin\Debug\Apagar Equipo.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Proyectos\Apagar Equipo - copia\Apagar Equipo\bin\Debug\Apagar Equipo.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Apagar Equipo\Apagar Equipo\bin\Debug\Apagar Equipo.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Apagar Equipo\Apagar Equipo\obj\Debug\Apagar Equipo.pdb
